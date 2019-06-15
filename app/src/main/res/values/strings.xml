@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Meters to Inches</string>
+    <string name="title">TextView</string>
+    <string name="plantextMeter">Enter in Meters</string>
+    <string name="buttonConvert">Button</string>
+</resources>
