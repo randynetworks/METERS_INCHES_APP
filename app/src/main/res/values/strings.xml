@@ -1,6 +1,10 @@
 <resources>
-    <string name="app_name">Meters to Inches</string>
-    <string name="title">TextView</string>
-    <string name="plantextMeter">Enter in Meters</string>
-    <string name="buttonConvert">CONVERT TO INCHES</string>
+    <string name="app_name">Meters Inches App</string>
+    <string name="title">METERS INCHES APP</string>
+    <string name="EnterValue">Enter Value</string>
+    <string name="buttonConvertToInches">CONVERT TO INCHES</string>
+    <string name="buttonConvertToMeters">CONVERT TO METERS</string>
+    <string name="error_message">Please enter a valid Number</string>
+    <string name="clear">Clear</string>
+    <string name="createBy">Create by Raini Technology</string>
 </resources>
